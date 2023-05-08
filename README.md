@@ -11,7 +11,7 @@ This is a classic Snake Game built using HTML, CSS, and JavaScript. The game is 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/shrungadithyaan/snakeGame.git`
+1. Clone the repository: `git clone https://github.com/Shrungadithyaan/snakeGame.git`
 2. Open the snakegame.html file in your web browser.
 
 ## Technologies Used
